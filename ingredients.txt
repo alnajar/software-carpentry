@@ -1,3 +1,5 @@
 milk
 chocolate
-sugar
+salt
+butter
+vanilla
